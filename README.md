@@ -4,5 +4,6 @@
 
 Skills: ANGULAR / TS / JS / HTML / CSS / RXJS 
 
+![GitHub metrics](https://metrics.lecoq.io/Stasiek99)  
 - 🔭 I’m currently working on TODO LIST APP 
 - 🌱 I’m currently learning RXJS AND NGRX 

@@ -2,8 +2,6 @@
 
 Skills: ANGULAR / TS / JS / HTML / CSS / RXJS
 
-I’m currently working on TODO LIST APP
-
 
 
 

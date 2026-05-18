@@ -35,7 +35,3 @@ Fully client-side Angular app — no backend, no database. Compose a no-code tra
 `Angular 21` `TypeScript` `Lightweight Charts v5` `RxJS` `Binance WS` `Alpaca API` `KaTeX`
 
 [(https://axiom-trade-testbed.netlify.app](https://axiom-trade-testbed.netlify.app)
-
----
-
-stasiekpilich@gmail.com
